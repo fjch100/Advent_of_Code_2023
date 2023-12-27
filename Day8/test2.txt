@@ -1,0 +1,10 @@
+LR
+
+FFA = (FFB, XXX)
+FFB = (XXX, FFZ)
+FFZ = (FFB, XXX)
+RRA = (RRB, XXX)
+RRB = (RRC, RRC)
+RRC = (RRZ, RRZ)
+RRZ = (RRB, RRB)
+XXX = (XXX, XXX)

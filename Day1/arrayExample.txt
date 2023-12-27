@@ -1,0 +1,132 @@
+//EJEMPLO DE SALIDA DEL ARRAY DEL "MATCHALL(/([0-9]|one|two|three|four|five|six|seven|eight|nine)/g)"
+
+//line #1
+array [ [ 'five', 'five', index: 0, input: 'fiveight', groups: undefined ] ]
+
+//line #2
+array [
+        [
+          'one',
+          'one',
+          index: 1,
+          input: 'zoneightthree2hvhfsprqxmlsix7onevn4',
+          groups: undefined
+        ],
+        [
+          'three',
+          'three',
+          index: 8,
+          input: 'zoneightthree2hvhfsprqxmlsix7onevn4',
+          groups: undefined
+        ],
+        [
+          '2',
+          '2',
+          index: 13,
+          input: 'zoneightthree2hvhfsprqxmlsix7onevn4',
+          groups: undefined
+        ],
+        [
+          'six',
+          'six',
+          index: 25,
+          input: 'zoneightthree2hvhfsprqxmlsix7onevn4',
+          groups: undefined
+        ],
+        [
+          '7',
+          '7',
+          index: 28,
+          input: 'zoneightthree2hvhfsprqxmlsix7onevn4',
+          groups: undefined
+        ],
+        [
+          'one',
+          'one',
+          index: 29,
+          input: 'zoneightthree2hvhfsprqxmlsix7onevn4',
+          groups: undefined
+        ],
+        [
+          '4',
+          '4',
+          index: 34,
+          input: 'zoneightthree2hvhfsprqxmlsix7onevn4',
+          groups: undefined
+        ]
+      ]
+
+//line #3
+array [
+        [
+          '5',
+          '5',
+          index: 0,
+          input: '56sixssevenfour5twonine',
+          groups: undefined
+        ],
+        [
+          '6',
+          '6',
+          index: 1,
+          input: '56sixssevenfour5twonine',
+          groups: undefined
+        ],
+        [
+          'six',
+          'six',
+          index: 2,
+          input: '56sixssevenfour5twonine',
+          groups: undefined
+        ],
+        [
+          'seven',
+          'seven',
+          index: 6,
+          input: '56sixssevenfour5twonine',
+          groups: undefined
+        ],
+        [
+          'four',
+          'four',
+          index: 11,
+          input: '56sixssevenfour5twonine',
+          groups: undefined
+        ],
+        [
+          '5',
+          '5',
+          index: 15,
+          input: '56sixssevenfour5twonine',
+          groups: undefined
+        ],
+        [
+          'two',
+          'two',
+          index: 16,
+          input: '56sixssevenfour5twonine',
+          groups: undefined
+        ],
+        [
+          'nine',
+          'nine',
+          index: 19,
+          input: '56sixssevenfour5twonine',
+          groups: undefined
+        ]
+      ]
+
+//line #4
+array [
+        [ '5', '5', index: 0, input: '58fourfour', groups: undefined ],
+        [ '8', '8', index: 1, input: '58fourfour', groups: undefined ],
+        [ 'four', 'four', index: 2, input: '58fourfour', groups: undefined ],
+        [ 'four', 'four', index: 6, input: '58fourfour', groups: undefined ]
+      ]
+
+//line #5
+array [
+        [ '6', '6', index: 0, input: '683', groups: undefined ],
+        [ '8', '8', index: 1, input: '683', groups: undefined ],
+        [ '3', '3', index: 2, input: '683', groups: undefined ]
+      ]

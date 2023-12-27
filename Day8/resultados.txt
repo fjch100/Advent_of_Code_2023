@@ -1,0 +1,9 @@
+FQZ found, final steps: 21883
+BBZ found, final steps: 19667
+SGZ found, final steps: 14681
+MQZ found, final steps: 16897
+VHZ found, final steps: 13019
+ZZZ found, final steps: 11911
+277, 53 71, 79, 61, 47, 43
+10151663816849
+

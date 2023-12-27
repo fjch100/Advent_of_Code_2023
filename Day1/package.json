@@ -1,0 +1,11 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "advent of code day 1",
+  "main": "day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felix Centeno, fjch100@gmail.com",
+  "license": "ISC"
+}

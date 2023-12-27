@@ -1,0 +1,34 @@
+categories: {
+  'seed-to-soil': [
+    { destinationStart: 50, sourceStart: 98, length: 2 },
+    { destinationStart: 52, sourceStart: 50, length: 48 }
+  ],
+  'soil-to-fertilizer': [
+    { destinationStart: 0, sourceStart: 15, length: 37 },
+    { destinationStart: 37, sourceStart: 52, length: 2 },
+    { destinationStart: 39, sourceStart: 0, length: 15 }
+  ],
+  'fertilizer-to-water': [
+    { destinationStart: 49, sourceStart: 53, length: 8 },
+    { destinationStart: 0, sourceStart: 11, length: 42 },
+    { destinationStart: 42, sourceStart: 0, length: 7 },
+    { destinationStart: 57, sourceStart: 7, length: 4 }
+  ],
+  'water-to-light': [
+    { destinationStart: 88, sourceStart: 18, length: 7 },
+    { destinationStart: 18, sourceStart: 25, length: 70 }
+  ],
+  'light-to-temperature': [
+    { destinationStart: 45, sourceStart: 77, length: 23 },
+    { destinationStart: 81, sourceStart: 45, length: 19 },
+    { destinationStart: 68, sourceStart: 64, length: 13 }
+  ],
+  'temperature-to-humidity': [
+    { destinationStart: 0, sourceStart: 69, length: 1 },
+    { destinationStart: 1, sourceStart: 0, length: 69 }
+  ],
+  'humidity-to-location': [
+    { destinationStart: 60, sourceStart: 56, length: 37 },
+    { destinationStart: 56, sourceStart: 93, length: 4 }
+  ]
+}
